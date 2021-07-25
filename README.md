@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**Samcanes/Samcanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Basically this <a href="https://github.com/Samcanes?tab=repositories">link</a> is just so i get to repo`s faster!
 
 Here are some ideas to get you started:
